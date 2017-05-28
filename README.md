@@ -10,7 +10,7 @@ A simple library for creating animated warnings/notifications for Android.
 ## Examples
 
 ![](https://media.giphy.com/media/3og0ISeKMdFB8yFgd2/giphy.gif) ![](https://media.giphy.com/media/xUA7aP21RJInulbwHu/giphy.gif) ![](https://media.giphy.com/media/3og0Iyzt3OMbrZq920/giphy.gif)
-<img src="https://media.giphy.com/media/3og0IEROGpv8Y8t1GU/giphy.gif" width="33%"> <img src="https://media.giphy.com/media/xUA7aMFBW9TTLnZELm/giphy.gif" width="33%"> <img src="https://media.giphy.com/media/xUA7bk4Qp1eVzGohB6/giphy.gif" width="33%"> 
+<img src="https://media.giphy.com/media/3og0IEROGpv8Y8t1GU/giphy.gif" width="25%"> <img src="https://media.giphy.com/media/xUA7aMFBW9TTLnZELm/giphy.gif" width="25%"> <img src="https://media.giphy.com/media/xUA7bk4Qp1eVzGohB6/giphy.gif" width="25%"> 
 
 
 ## Installation
