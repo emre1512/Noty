@@ -21,9 +21,7 @@ A simple library for creating animated warnings/notifications for Android.
 
 ## Installation
 
-- 1st way: Get it via gradle: ```java compile 'com.emredavarci:noty:1.0.3' ``` 
-<br/>
-- 2nd way: [Noty](https://github.com/emre1512/Noty/blob/master/app/src/main/java/com/emredavarci/noty/Noty.java) is just a simple class. Just put it into your project wherever you want. 
+- Get it via gradle: ```java compile 'com.emredavarci:noty:1.0.3' ``` 
 
 ## Usage
 
