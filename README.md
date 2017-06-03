@@ -4,7 +4,6 @@
 ![https://github.com/emre1512/Noty](https://img.shields.io/badge/API-16+-orange.svg?style=flat-square)
 ![https://www.apache.org/licenses/LICENSE-2.0](https://img.shields.io/badge/licence-Apache%20v2.0-blue.svg?style=flat-square)
 ![https://github.com/emre1512/Noty](https://img.shields.io/badge/version-v1.0.3-ff69b4.svg?style=flat-square)
-![https://github.com/emre1512/Noty](https://img.shields.io/badge/version-v1.0-ff69b4.svg?style=flat-square)
 
 A simple library for creating animated warnings/notifications for Android.
 
@@ -18,20 +17,13 @@ A simple library for creating animated warnings/notifications for Android.
 
 | [Show me code](https://github.com/emre1512/Noty/wiki/Example-4) | [Show me code](https://github.com/emre1512/Noty/wiki/Example-5) | [Show me code](https://github.com/emre1512/Noty/wiki/Example-6) |
 | :-------------: |:-------------:| :-----------: |
-<<<<<<< HEAD
 | <img src="https://media.giphy.com/media/3og0IEROGpv8Y8t1GU/giphy.gif" width="85%"> | <img src="https://media.giphy.com/media/xUA7aMFBW9TTLnZELm/giphy.gif" width="85%"> | <img src="https://media.giphy.com/media/xUA7bk4Qp1eVzGohB6/giphy.gif" width="85%"> |
 
 ## Installation
 
-- 1st way: Get it via gradle: ``` compile 'com.emredavarci:noty:1.0.3' ``` 
+- 1st way: Get it via gradle: ```java compile 'com.emredavarci:noty:1.0.3' ``` 
 <br/>
 - 2nd way: [Noty](https://github.com/emre1512/Noty/blob/master/app/src/main/java/com/emredavarci/noty/Noty.java) is just a simple class. Just put it into your project wherever you want. 
-| ![](https://media.giphy.com/media/3og0IEROGpv8Y8t1GU/giphy.gif) | ![](https://media.giphy.com/media/xUA7aMFBW9TTLnZELm/giphy.gif) | ![](https://media.giphy.com/media/xUA7bk4Qp1eVzGohB6/giphy.gif) |
-
-
-## Installation
-
-- 1st way: [Noty](https://github.com/emre1512/Noty/blob/master/app/src/main/java/com/emredavarci/noty/Noty.java) is just a simple class. Just put it into your project wherever you want. 
 
 ## Usage
 
