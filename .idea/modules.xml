@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/NotyLib.iml" filepath="$PROJECT_DIR$/NotyLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/noty/noty.iml" filepath="$PROJECT_DIR$/noty/noty.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/Noty.iml" filepath="$PROJECT_DIR$/Noty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
->>>>>>> b53056f2c0a5783c281e6cc72b6f708b9cf5568e
     </modules>
   </component>
 </project>
