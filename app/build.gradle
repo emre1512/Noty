@@ -1,29 +1,49 @@
+<<<<<<< HEAD
 apply plugin: 'com.android.application'
+=======
+apply plugin: 'com.android.library'
+>>>>>>> b53056f2c0a5783c281e6cc72b6f708b9cf5568e
 
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.1"
+<<<<<<< HEAD
     defaultConfig {
         applicationId "com.emredavarci.notylib"
+=======
+
+    defaultConfig {
+>>>>>>> b53056f2c0a5783c281e6cc72b6f708b9cf5568e
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
+<<<<<<< HEAD
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
             minifyEnabled false
+=======
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+>>>>>>> b53056f2c0a5783c281e6cc72b6f708b9cf5568e
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
 }
 
 dependencies {
+<<<<<<< HEAD
     compile fileTree(dir: 'libs', include: ['*.jar'])
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
+=======
+    compile 'com.android.support:appcompat-v7:25.0.1'
+>>>>>>> b53056f2c0a5783c281e6cc72b6f708b9cf5568e
 }

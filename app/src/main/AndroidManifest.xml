@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
+<<<<<<< HEAD
     package="com.emredavarci.notylib">
+=======
+    package="com.emredavarci.noty">
+>>>>>>> b53056f2c0a5783c281e6cc72b6f708b9cf5568e
 
     <application
         android:allowBackup="true"
