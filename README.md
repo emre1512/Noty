@@ -1,6 +1,6 @@
 # Noty
 
-<img src="http://imgur.com/a/TqG9J" width="256" height="256">
+<img src="http://i.imgur.com/DSXMqLs.png" width="128" height="128">
 
 ![https://github.com/emre1512/Noty](https://img.shields.io/badge/platform-Android-green.svg?style=flat-square)
 ![https://github.com/emre1512/Noty](https://img.shields.io/badge/API-16+-orange.svg?style=flat-square)
