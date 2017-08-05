@@ -9,10 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-<<<<<<< HEAD
             <option value="$PROJECT_DIR$/noty" />
-=======
->>>>>>> b53056f2c0a5783c281e6cc72b6f708b9cf5568e
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
