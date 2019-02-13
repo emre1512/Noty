@@ -9,10 +9,6 @@
 
 A simple library for creating animated warnings/notifications for Android.
 
-
-![http://www.buymeacoff.ee/emre1512](https://img.shields.io/badge/Buy%20me%20a-coffee-blue.svg?style=flat-square)
-
-
 ## Examples
 
 | [Show me code](https://github.com/emre1512/Noty/wiki/Example-1) | [Show me code](https://github.com/emre1512/Noty/wiki/Example-2) | [Show me code](https://github.com/emre1512/Noty/wiki/Example-3) |
