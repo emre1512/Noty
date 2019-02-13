@@ -9,7 +9,8 @@
 
 A simple library for creating animated warnings/notifications for Android.
 
-buymeacoff.ee/emre1512
+![buymeacoff.ee/emre1512](https://img.shields.io/badge/version-v1.0.3-10A1E9.svg?style=flat-square)
+
 
 ## Examples
 
